@@ -21,7 +21,7 @@ bug](https://gitorious.org/svn2git/svn2git/merge_requests/23):
 > https://gitorious.org/svn2git/svn2git/merge_requests/19 appears to be fixing
 > the same bug in almost the same way.
 
-Upstream seems to be dead: they never reacted to my merge request (or to the
+Upstream seemed to be dead: they never reacted to my merge request (or to the
 older one I missed initially).
 
 Since Gitorious is dying too (GitLab bought it), and since GitLab didn't bother
@@ -30,6 +30,8 @@ pushing this to GitHub.
 
 Hey, I found https://github.com/svn-all-fast-export/svn2git on GitHub, which
 seems to be the same codebase, so I'll try merging the two.
+
+**UPDATE**: they [merged](https://github.com/svn-all-fast-export/svn2git/pull/1) my pull request yay!
 
 
 Building
